@@ -10,4 +10,9 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    public static void main2( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
 }
